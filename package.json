@@ -1,8 +1,5 @@
 {
-  "name": "cursillo-web",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "name": "hack-web",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
