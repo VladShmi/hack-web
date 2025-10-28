@@ -174,19 +174,19 @@ function App() {
             <div className="value-card">
               <div className="value-icon">💡</div>
               <h3>Innovation</h3>
-              <p>Siempre buscando nuevas formas de resolver problemas</p>
+              <p>-</p>
             </div>
             
             <div className="value-card">
               <div className="value-icon">🤝</div>
               <h3>Teamwork</h3>
-              <p>Juntos llegamos más lejos y aprendemos más</p>
+              <p>-</p>
             </div>
             
             <div className="value-card">
               <div className="value-icon">🎯</div>
               <h3>Quality</h3>
-              <p>Comprometidos con la excelencia en cada línea de código</p>
+              <p>-</p>
             </div>
           </div>
         </div>
@@ -202,7 +202,6 @@ function App() {
             </div>
             <div className="footer-info">
               <p>© 2025 {grupoInfo.nombre}</p>
-              <p>Cursillo de Programación Web</p>
             </div>
           </div>
         </div>
