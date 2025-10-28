@@ -18,69 +18,50 @@ function App() {
   // MIEMBROS - CAMBIAD POR VUESTROS DATOS REALES
   const miembros = [
     {
-      nombre: "Nombre Miembro 1",
-      rol: "Frontend Developer",
+      nombre: "SραrκLynx",
+      rol: " ",
       avatar: "👤", // Puedes cambiarlo por 👨‍💻, 👩‍💻, o cualquier otro
       color: "#00ff88",
-      bio: "Una frase corta sobre ti",
-      curiosidades: [
-        "Tu hobby favorito",
-        "Algo que te gusta hacer",
-        "Un dato curioso sobre ti"
-      ],
-      skills: ["React", "JavaScript", "CSS"]
+      bio: "-",
+      curiosidades: [],
+      skills: []
     },
     {
-      nombre: "Nombre Miembro 2",
-      rol: "Backend Developer",
+      nombre: "vengadormaldito",
+      rol: "",
       avatar: "👤",
       color: "#00d4ff",
-      bio: "Tu descripción personal",
+      bio: "-",
       curiosidades: [
-        "¿Qué te apasiona?",
-        "Tu serie/juego favorito",
-        "Algo único de ti"
       ],
-      skills: ["Python", "Node.js", "SQL"]
+      skills: []
     },
     {
-      nombre: "Nombre Miembro 3",
-      rol: "Full Stack Developer",
+      nombre: "ruffus",
+      rol: " ",
       avatar: "👤",
       color: "#ff00ff",
-      bio: "Cuenta algo sobre ti",
-      curiosidades: [
-        "Tu comida favorita",
-        "¿Música que escuchas?",
-        "Dato random"
-      ],
-      skills: ["Vue", "Express", "MongoDB"]
+      bio: "-",
+      curiosidades: [],
+      skills: []
     },
     {
-      nombre: "Nombre Miembro 4",
-      rol: "UI/UX Designer",
+      nombre: "Kyru",
+      rol: " ",
       avatar: "👤",
       color: "#ffd000",
-      bio: "Breve descripción tuya",
-      curiosidades: [
-        "¿Qué te inspira?",
-        "Tu película favorita",
-        "Algo que te define"
-      ],
-      skills: ["Figma", "Design", "HTML/CSS"]
+      bio: "-",
+      curiosidades: [],
+      skills: []
     },
     {
-      nombre: "Nombre Miembro 5",
-      rol: "DevOps Engineer",
+      nombre: "k0vl",
+      rol: " ",
       avatar: "👤",
       color: "#ff6b00",
-      bio: "Di algo sobre ti",
-      curiosidades: [
-        "Tu deporte/hobby",
-        "¿Qué te motiva?",
-        "Característica especial"
-      ],
-      skills: ["Docker", "Git", "Linux"]
+      bio: "-",
+      curiosidades: [],
+      skills: []
     }
   ]
 
